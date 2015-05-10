@@ -1,0 +1,32 @@
+{
+  "name": "imgprogress",
+  "main": [
+    "imgprogress.min.js",
+    "imgprogress.min.css"
+  ],
+  "version": "0.0.1",
+  "description": "A jQuery plugins to create a progressbar according with the number of image in the page.",
+  "keywords": [
+    "Pictures",
+    "Progress",
+    "Bar",
+    "jQuery"
+  ],
+  "authors": [
+    "cedced19"
+  ],
+  "dependencies": {
+    "jquery": ">=1.7.1"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/cedced19/imgprogress",
+  "_release": "0.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.0.1",
+    "commit": "9b67fb823241b6c1ca99734f6f85f3ded028ef0c"
+  },
+  "_source": "https://github.com/cedced19/imgprogress.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/cedced19/imgprogress.git"
+}
